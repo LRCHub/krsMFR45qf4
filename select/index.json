@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "愛迷エレジー (Reloaded)",
+  "base_artist": "DECO*27",
+  "createdAt": "2025-12-13T11:10:32.597597Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛迷エレジー",
+      "artist": "DECO*27 feat. marina",
+      "has_synced": true,
+      "path": "select/01_愛迷エレジー_DECO_27_feat._marina.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛迷エレジー",
+      "artist": "松下",
+      "has_synced": false,
+      "path": "select/02_愛迷エレジー_松下.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛迷エレジー",
+      "artist": "DECO[↑]*27",
+      "has_synced": false,
+      "path": "select/03_愛迷エレジー_DECO[↑]_27.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛迷エレジー",
+      "artist": "松下; DECO*27",
+      "has_synced": false,
+      "path": "select/04_愛迷エレジー_松下;_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛迷エレジー",
+      "artist": "DECO*27 feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/05_愛迷エレジー_DECO_27_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "愛迷エレジー",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/06_愛迷エレジー_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "愛迷エレジー",
+      "artist": "deco27 feat. Hatsune, Miku",
+      "has_synced": true,
+      "path": "select/07_愛迷エレジー_deco27_feat._Hatsune,_Miku.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "愛迷エレジー (KRAD MATRiX Ver.)",
+      "artist": "kradness",
+      "has_synced": false,
+      "path": "select/08_愛迷エレジー_(KRAD_MATRiX_Ver.)_kradness.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "愛迷エレジー (feat. 初音ミク)",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/09_愛迷エレジー_(feat._初音ミク)_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "愛迷エレジー",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/10_愛迷エレジー_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "愛迷エレジー",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/11_愛迷エレジー_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "愛迷エレジー",
+      "artist": "Matsushita",
+      "has_synced": false,
+      "path": "select/12_愛迷エレジー_Matsushita.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "愛迷エレジー feat. marina",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/13_愛迷エレジー_feat._marina_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "愛迷エレジー / DECO*27 Feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/14_愛迷エレジー___DECO_27_Feat._初音ミク_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "愛迷エレジー feat. marina",
+      "artist": "marina",
+      "has_synced": false,
+      "path": "select/15_愛迷エレジー_feat._marina_marina.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛迷エレジー",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_愛迷エレジー_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "愛迷エレジー",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_02_愛迷エレジー_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "愛迷エレジー",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_03_愛迷エレジー_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "愛迷エレジー",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_04_愛迷エレジー_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "愛迷エレジー",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_05_愛迷エレジー_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "愛迷エレジー",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_06_愛迷エレジー_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "愛迷エレジー",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_07_愛迷エレジー_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "愛迷エレジー",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_08_愛迷エレジー_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "愛迷エレジー",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_09_愛迷エレジー_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "愛迷エレジー",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_10_愛迷エレジー_初音ミク.txt"
+    }
+  ]
+}
